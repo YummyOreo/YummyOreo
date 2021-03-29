@@ -22,4 +22,5 @@ I Am a normal person in the US that likes to code
 
 ## More Info
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OreoDivision&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OreoDivision&theme=dark)]
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OreoDivision&theme=dark)
