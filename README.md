@@ -21,4 +21,4 @@ I Am a normal person in the US that likes to code
 * Server: [https://discord.gg/9kvTg7Pk5W](https://discord.gg/9kvTg7Pk5W)
 
 ## More Info
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OreoDivision&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OreoDivision&show_icons=true&theme=dark)
