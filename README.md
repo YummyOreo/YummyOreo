@@ -1,16 +1,24 @@
-### Hi there 👋
+# About Me
+I Am a normal person in the US that likes to code
 
-<!--
-**OreoDivision/OreoDivision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programing Languages
+* Main/s:
+  * Python
+  * JavaScript
+* Learning:
+  * C++
 
-Here are some ideas to get you started:
+## When I Am Active (CST)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Week Days
+* 9am - 7pm
+
+### Weekends
+* 6am - 9pm
+
+## How To Contact
+* Discord @OreoDivision#0001
+* Server: [https://discord.gg/9kvTg7Pk5W](https://discord.gg/9kvTg7Pk5W)
+
+## More Info
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=OreoDivision)](https://github.com/anuraghazra/github-readme-stats)
