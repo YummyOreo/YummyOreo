@@ -30,4 +30,4 @@ I Am a normal person in the US that likes to code
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OreoDivision&theme=dark)
 <br>
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OreoDivision&theme=dark&layout=compact)]
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OreoDivision&theme=dark)
