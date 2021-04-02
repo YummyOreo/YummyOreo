@@ -21,7 +21,7 @@ I Am a normal person in the US that likes to code
 * Server: [https://discord.gg/9kvTg7Pk5W](https://discord.gg/9kvTg7Pk5W)
 
 ## Pins
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OreoDivision&repo=chat-app-oreo&theme=dark&show_owner=true)](https://github.com/OreoDivision/chat-app-oreo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OreoDivision&repo=wyvern&theme=dark&show_owner=true)](https://github.com/OreoDivision/wyvern)
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OreoDivision&repo=python-bot-template&theme=dark&show_owner=true)](https://github.com/OreoDivision/python-bot-template)
 
