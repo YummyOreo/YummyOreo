@@ -5,6 +5,7 @@ I Am a normal person in the US that likes to code
 * Main/s:
   * Python
   * JavaScript
+   * TypeScript
 * Learning:
   * C++
 
