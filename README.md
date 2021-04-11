@@ -25,10 +25,15 @@ I Am a normal person in the US that likes to code
 ### Working On
 
 <br>
+
 ### Templates
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OreoDivision&repo=python-bot-template&theme=dark&show_owner=true)](https://github.com/OreoDivision/python-bot-template)
+
 <br>
+
 ### Not Working On
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OreoDivision&repo=wyvern&theme=dark&show_owner=true)](https://github.com/OreoDivision/wyvern)
 
 ## More Info
