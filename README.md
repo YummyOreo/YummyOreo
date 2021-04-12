@@ -32,7 +32,6 @@ I Am a normal person in the US that likes to code
 ### Templates
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OreoDivision&repo=python-bot-template&theme=dark&show_owner=true)](https://github.com/OreoDivision/python-bot-template)
-
 <br>
 
 ### Not Working On
