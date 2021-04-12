@@ -1,6 +1,8 @@
 # About Me
 I Am a normal person in the US that likes to code
 
+> **DO NOT CONTACT ME TO GET HELP WITH DISCORD.JS PLS**
+
 ## Programing Languages
 * Main/s:
   * Python
@@ -19,7 +21,7 @@ I Am a normal person in the US that likes to code
 
 ## How To Contact
 * Discord @OreoDivision#0001
-* Server: [https://discord.gg/9kvTg7Pk5W](https://discord.gg/9kvTg7Pk5W)
+* Server: Coming Soon
 
 ## Pins
 ### Working On
