@@ -1,7 +1,7 @@
 # About Me
 I Am a normal person in the US that likes to code
 
-> **DO NOT CONTACT ME TO GET HELP WITH DISCORD.JS PLS**
+> **DO NOT CONTACT ME TO GET HELP WITH DISCORD.JS PLS** || UNLESS YOUR ON MY FRIENDS LIST ||
 
 ## Programing Languages
 * Main/s:
