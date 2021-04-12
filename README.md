@@ -24,6 +24,7 @@ I Am a normal person in the US that likes to code
 ## Pins
 ### Working On
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OreoDivision&repo=chat-house&theme=dark&show_owner=true)](https://github.com/OreoDivision/chat-house)
 <br>
 
 ### Templates
