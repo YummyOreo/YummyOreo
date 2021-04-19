@@ -10,6 +10,7 @@ I Am a normal person in the US that likes to code
    * TypeScript
 * Learning:
   * C++
+  * C#
 
 ## When I Am Active (CST)
 
