@@ -11,6 +11,7 @@ I Am a normal person in the US that likes to code
 * Learning:
   * C++
   * C#
+  * Elixir
 
 ## When I Am Active (CST)
 
