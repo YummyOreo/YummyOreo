@@ -31,19 +31,7 @@ I Am a normal person in the US that likes to code
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OreoDivision&repo=chat-house&theme=dark&show_owner=true)](https://github.com/OreoDivision/chat-house)
 <br>
 
-### PyPi
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OreoDivision&repo=bot-Plus&theme=dark&show_owner=true)](https://github.com/OreoDivision/bot-Plus)
-<br>
-
-### Templates
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OreoDivision&repo=python-bot-template&theme=dark&show_owner=true)](https://github.com/OreoDivision/python-bot-template)
-<br>
-
-### Archived
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OreoDivision&repo=wyvern&theme=dark&show_owner=true)](https://github.com/OreoDivision/wyvern)
+### All
 
 ## More Info
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OreoDivision&show_icons=true&theme=dark)
