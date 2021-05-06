@@ -33,6 +33,9 @@ I Am a normal person in the US that likes to code
 
 ### All
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OreoDivision&repo=all_repos&theme=dark)](https://github.com/OreoDivision/all_repos)
+<br>
+
 ## More Info
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OreoDivision&show_icons=true&theme=dark)
 <br>
