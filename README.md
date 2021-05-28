@@ -28,7 +28,7 @@ I Am a normal person in the US that likes to code
 ## Pins
 ### Working On
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OreoDivision&repo=all_repos&theme=dark)](https://github.com/OreoDivision/Stat-Tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OreoDivision&repo=Stat-Tracker&theme=dark)](https://github.com/OreoDivision/Stat-Tracker)
 <br>
 
 ### All
