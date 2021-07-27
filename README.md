@@ -22,7 +22,7 @@ I Am a normal person in the US that likes to code
 * 6am - 9pm
 
 ## How To Contact
-* Discord @OreoDivision#0001
+* Discord @YummyOreo#6300
 * Server: Coming Soon
 
 ## Pins
