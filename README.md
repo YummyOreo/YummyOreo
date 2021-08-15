@@ -28,7 +28,7 @@ I Am a normal person in the US that likes to code
 ## Pins
 ### Working On
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YummyOreo&repo=Stat-Tracker&theme=dark)](https://github.com/YummyOreo/Stat-Tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YummyOreo&repo=Impulse&theme=dark)](https://github.com/YummyOreo/Impulse)
 <br>
 
 ### All
