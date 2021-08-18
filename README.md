@@ -1,5 +1,7 @@
 ### Hi there, I'm Oreo 👋
-<br />
+Hello, I'm YummyOreo. I am a developer that works on many different projects. I like to play games like Battlefield, Minecraft, and airsoft.
+
+**Developer of Everyone's Utilities & Impulse**
 
 ### Languages and Tools:
 
