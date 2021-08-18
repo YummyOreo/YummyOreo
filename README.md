@@ -20,6 +20,9 @@ Hello, I'm YummyOreo. I am a developer that works on many different projects. I 
 
 ### Current repo:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YummyOreo&repo=Impulse&theme=dark)](https://github.com/YummyOreo/Impulse)
+<br/>
+
+[➡️ more repos...](https://github.com/YummyOreo?tab=repositories)
 
 ### Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YummyOreo&show_icons=true&theme=dark)
