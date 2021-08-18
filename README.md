@@ -1,44 +1,15 @@
-# About Me
-I Am a normal person in the US that likes to code
+### Hi there, I'm Oreo 👋
+<br />
 
-> **DO NOT CONTACT ME TO GET HELP WITH DISCORD.JS PLS** || UNLESS YOUR ON MY FRIENDS LIST ||
+### Languages and Tools:
 
-## Programing Languages
-* Main/s:
-  * Python
-  * JavaScript
-   * TypeScript
-* Learning:
-  * C++
-  * C#
-  * Elixir
-
-## When I Am Active (CST)
-
-### Week Days
-* 9am - 7pm
-
-### Weekends
-* 6am - 9pm
-
-## How To Contact
-* Discord @YummyOreo#6300
-* Server: Coming Soon
-
-## Pins
-### Working On
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YummyOreo&repo=Impulse&theme=dark)](https://github.com/YummyOreo/Impulse)
-<br>
-
-### All
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YummyOreo&repo=all_repos&theme=dark)](https://github.com/YummyOreo/all_repos)
-<br>
-
-## More Info
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YummyOreo&show_icons=true&theme=dark)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YummyOreo&theme=dark&hide=EJS,Shell)
-<br>
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YummyOreo&theme=dark&hide=EJS,Shell)
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
