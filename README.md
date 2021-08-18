@@ -23,4 +23,7 @@ Hello, I'm YummyOreo. I am a developer that works on many different projects. I 
 
 ### Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YummyOreo&show_icons=true&theme=dark)
+
+<br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YummyOreo&theme=dark&hide=EJS,Shell)
