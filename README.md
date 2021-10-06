@@ -1,4 +1,5 @@
 ### Hi there, I'm Oreo 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YummyOreo&label=Profile%20views&color=0e75b6&style=flat" alt="YummyOreo" /> </p>
 Hello, I'm YummyOreo. I am a developer that works on many different projects. I like to play Battlefield, Minecraft, airsoft, and Ultimate Frisbee
 
 **Developer of Everyone's Utilities & Impulse**
