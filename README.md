@@ -12,3 +12,5 @@ I am a programmer that loves to mess around and make random projects. I dont hos
 
 ### 📊 Weekly Wakatime Breakdown
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
