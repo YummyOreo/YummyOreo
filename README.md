@@ -4,8 +4,6 @@ I am a programmer that loves to mess around and make random projects. I dont hos
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 ### 📊 Weekly Wakatime Breakdown
 <!--START_SECTION:waka-->
 
