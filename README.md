@@ -14,11 +14,15 @@ I am a programmer that loves to mess around and make random projects. I dont hos
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 59 mins    ████████████████░░░░░░░░░   63.37 %
-JSON         58 mins         ███████▓░░░░░░░░░░░░░░░░░   30.90 %
-Git Config   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+From: 01 July 2022 - To: 08 July 2022
+
+Total Time: 3 hrs 6 mins
+
+TypeScript   1 hr 59 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.37 %
+JSON         58 mins         ⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.90 %
+Git Config   6 mins          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.71 %
+HTML         1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.76 %
+Other        1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.73 %
 ```
 
 <!--END_SECTION:waka-->
