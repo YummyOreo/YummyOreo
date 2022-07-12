@@ -3,11 +3,11 @@ I am a programmer that loves to mess around and make random projects. I dont hos
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/YummyOreo/document-site/issues/8) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-2. ❗️ Opened issue [#7](https://github.com/YummyOreo/document-site/issues/7) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-3. ❗️ Opened issue [#6](https://github.com/YummyOreo/document-site/issues/6) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-4. ❗️ Closed issue [#1](https://github.com/YummyOreo/yummyoreo.github.io/issues/1) in [YummyOreo/yummyoreo.github.io](https://github.com/YummyOreo/yummyoreo.github.io)
-5. ❗️ Opened issue [#1](https://github.com/YummyOreo/yummyoreo.github.io/issues/1) in [YummyOreo/yummyoreo.github.io](https://github.com/YummyOreo/yummyoreo.github.io)
+1. ❗️ Opened issue [#9](https://github.com/YummyOreo/document-site/issues/9) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+2. ❗️ Opened issue [#8](https://github.com/YummyOreo/document-site/issues/8) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+3. ❗️ Opened issue [#7](https://github.com/YummyOreo/document-site/issues/7) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+4. ❗️ Opened issue [#6](https://github.com/YummyOreo/document-site/issues/6) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+5. ❗️ Closed issue [#1](https://github.com/YummyOreo/yummyoreo.github.io/issues/1) in [YummyOreo/yummyoreo.github.io](https://github.com/YummyOreo/yummyoreo.github.io)
 <!--END_SECTION:activity-->
 
 ### 📊 Weekly Wakatime Breakdown
