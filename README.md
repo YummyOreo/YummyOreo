@@ -3,11 +3,11 @@ I am a programmer that loves to mess around and make random projects. I dont hos
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/YummyOreo/document-site/issues/3) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-2. ❗️ Closed issue [#3](https://github.com/YummyOreo/document-site/issues/3) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-3. ❗️ Opened issue [#4](https://github.com/YummyOreo/document-site/issues/4) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-4. ❗️ Opened issue [#3](https://github.com/YummyOreo/document-site/issues/3) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-5. ❗️ Opened issue [#2](https://github.com/YummyOreo/document-site/issues/2) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+1. ❗️ Opened issue [#1](https://github.com/YummyOreo/yummyoreo.github.io/issues/1) in [YummyOreo/yummyoreo.github.io](https://github.com/YummyOreo/yummyoreo.github.io)
+2. ❗️ Opened issue [#5](https://github.com/YummyOreo/document-site/issues/5) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+3. 🗣 Commented on [#3](https://github.com/YummyOreo/document-site/issues/3) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+4. ❗️ Closed issue [#3](https://github.com/YummyOreo/document-site/issues/3) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+5. ❗️ Opened issue [#4](https://github.com/YummyOreo/document-site/issues/4) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
 <!--END_SECTION:activity-->
 
 ### 📊 Weekly Wakatime Breakdown
