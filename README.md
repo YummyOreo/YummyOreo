@@ -3,11 +3,11 @@ I am a programmer that loves to mess around and make random projects. I dont hos
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3347](https://github.com/monkeytypegame/monkeytype/pull/3347) in [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)
-2. ❗️ Closed issue [#18](https://github.com/YummyOreo/document-site/issues/18) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-3. 🗣 Commented on [#18](https://github.com/YummyOreo/document-site/issues/18) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-4. ❗️ Opened issue [#18](https://github.com/YummyOreo/document-site/issues/18) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-5. ❗️ Opened issue [#17](https://github.com/YummyOreo/document-site/issues/17) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+1. ❗️ Opened issue [#19](https://github.com/YummyOreo/document-site/issues/19) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+2. 💪 Opened PR [#3347](https://github.com/monkeytypegame/monkeytype/pull/3347) in [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)
+3. ❗️ Closed issue [#18](https://github.com/YummyOreo/document-site/issues/18) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+4. 🗣 Commented on [#18](https://github.com/YummyOreo/document-site/issues/18) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+5. ❗️ Opened issue [#18](https://github.com/YummyOreo/document-site/issues/18) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
 <!--END_SECTION:activity-->
 
 ### 📊 Weekly Wakatime Breakdown
