@@ -3,11 +3,11 @@ I am a programmer that loves to mess around and make random projects. I dont hos
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/YummyOreo/document-site/issues/20) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-2. ❗️ Closed issue [#19](https://github.com/YummyOreo/document-site/issues/19) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-3. 💪 Opened PR [#20](https://github.com/YummyOreo/document-site/pull/20) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-4. ❗️ Opened issue [#19](https://github.com/YummyOreo/document-site/issues/19) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-5. 💪 Opened PR [#3347](https://github.com/monkeytypegame/monkeytype/pull/3347) in [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)
+1. ❗️ Opened issue [#21](https://github.com/YummyOreo/document-site/issues/21) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+2. 🎉 Merged PR [#20](https://github.com/YummyOreo/document-site/pull/20) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+3. 🗣 Commented on [#20](https://github.com/YummyOreo/document-site/issues/20) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+4. 🗣 Commented on [#20](https://github.com/YummyOreo/document-site/issues/20) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+5. ❗️ Closed issue [#19](https://github.com/YummyOreo/document-site/issues/19) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
 <!--END_SECTION:activity-->
 
 ### 📊 Weekly Wakatime Breakdown
