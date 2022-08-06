@@ -9,6 +9,7 @@ I am a programmer that loves to mess around and make random projects. I dont hos
 4. ❗️ Opened issue [#27](https://github.com/YummyOreo/document-site/issues/27) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
 5. 🗣 Commented on [#25](https://github.com/YummyOreo/document-site/issues/25) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
 <!--END_SECTION:activity-->
+<a href="https://github.com/YummyOreo"><img src="https://activity-graph.herokuapp.com/graph?username=YummyOreo&custom_title=YummyOreo's%20Contribution%20Graph&theme=react-dark" /></a>
 
 ### 📊 Weekly Wakatime Breakdown
 
@@ -59,3 +60,7 @@ XML          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 
 </details>
+
+### My Discord Profile
+
+![My Discord](https://discord-readme-badge.vercel.app/api?id=647959906170699776)
