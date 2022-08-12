@@ -1,4 +1,4 @@
-name: WakaTime status update
+name: WakaTime
 
 on:
   schedule:
