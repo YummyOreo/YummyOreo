@@ -14,6 +14,11 @@ I am a programmer that loves to mess around and make random projects. I dont hos
 
 ### 📊 Weekly Wakatime Breakdown
 
+<img
+  src="https://github.com/YummyOreo/YummyOreo/blob/main/images/stat.svg"
+  alt="Wakatime stats"
+/>
+
 ### :computer: Tech That I Use
 
 <details>
