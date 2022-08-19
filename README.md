@@ -3,11 +3,11 @@ I am a programmer that loves to mess around and make random projects. I dont hos
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#35](https://github.com/YummyOreo/document-site/issues/35) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-2. 🗣 Commented on [#24](https://github.com/YummyOreo/document-site/issues/24) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-3. ❗️ Opened issue [#34](https://github.com/YummyOreo/document-site/issues/34) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-4. 🗣 Commented on [#8](https://github.com/YummyOreo/document-site/issues/8) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-5. 🗣 Commented on [#31](https://github.com/YummyOreo/document-site/issues/31) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+1. 🗣 Commented on [#35](https://github.com/YummyOreo/document-site/issues/35) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+2. ❗️ Opened issue [#35](https://github.com/YummyOreo/document-site/issues/35) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+3. 🗣 Commented on [#24](https://github.com/YummyOreo/document-site/issues/24) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+4. ❗️ Opened issue [#34](https://github.com/YummyOreo/document-site/issues/34) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+5. 🗣 Commented on [#8](https://github.com/YummyOreo/document-site/issues/8) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/YummyOreo"><img src="https://activity-graph.herokuapp.com/graph?username=YummyOreo&custom_title=YummyOreo's%20Contribution%20Graph&theme=react-dark" /></a>
