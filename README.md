@@ -10,7 +10,7 @@ I am a programmer that loves to mess around and make random projects. I dont hos
 5. ❗️ Closed issue [#17](https://github.com/YummyOreo/document-site/issues/17) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
 <!--END_SECTION:activity-->
 
-<a href="https://github.com/YummyOreo"><img src="https://activity-graph.herokuapp.com/graph?username=YummyOreo&custom_title=YummyOreo's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/YummyOreo"><img src="https://activity-graph-oreo.herokuapp.com/graph?username=YummyOreo&custom_title=YummyOreo's%20Contribution%20Graph&theme=react-dark" /></a>
 
 ### 📊 Weekly Wakatime Breakdown
 
