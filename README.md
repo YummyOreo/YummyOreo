@@ -1,6 +1,10 @@
 <h1 > Hey there 👋 Im YummyOreo </h1>
 I am a programmer that loves to mess around and make random projects. I dont host all of them here, and most I dont finish. But they are still fun to make. I like to play games, paint mini (for dnd) and play airsoft. I am currently adicted to Microsoft Flight Sim (mainly flying the heli).
 
+### :link: Links
+- Personal: https://oreo.is-a.dev/
+- Dev.to: https://dev.to/yummyoreo
+
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#46](https://github.com/YummyOreo/document-site/issues/46) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
