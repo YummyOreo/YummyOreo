@@ -7,11 +7,11 @@ I am a programmer that loves to mess around and make random projects. I dont hos
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#58](https://github.com/YummyOreo/document-site/pull/58) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-2. ❌ Closed PR [#56](https://github.com/YummyOreo/document-site/pull/56) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-3. ❗️ Opened issue [#57](https://github.com/YummyOreo/document-site/issues/57) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-4. 💪 Opened PR [#56](https://github.com/YummyOreo/document-site/pull/56) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-5. ❗️ Opened issue [#55](https://github.com/YummyOreo/document-site/issues/55) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+1. 🗣 Commented on [#58](https://github.com/YummyOreo/document-site/issues/58) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+2. 💪 Opened PR [#58](https://github.com/YummyOreo/document-site/pull/58) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+3. ❌ Closed PR [#56](https://github.com/YummyOreo/document-site/pull/56) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+4. ❗️ Opened issue [#57](https://github.com/YummyOreo/document-site/issues/57) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+5. 💪 Opened PR [#56](https://github.com/YummyOreo/document-site/pull/56) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
 <!--END_SECTION:activity-->
 
 ### 📊 Weekly Wakatime Breakdown
