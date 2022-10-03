@@ -2,7 +2,7 @@
 I am a programmer that loves to mess around and make random projects. I dont host all of them here, and most I dont finish. But they are still fun to make. I like to play games, paint mini (for dnd) and play ultimate frisbee. I am currently adicted to Microsoft Flight Sim (mainly flying the heli).
 
 ### :link: Links
-- Personal: https://oreo.is-a.dev/
+- Personal: https://yummyoreo.github.io/
 - Dev.to: https://dev.to/yummyoreo
 
 ### :zap: Recent Activity
