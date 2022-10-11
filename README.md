@@ -11,7 +11,7 @@ I am a programmer that loves to mess around and make random projects. I dont hos
 2. 🗣 Commented on [#58](https://github.com/YummyOreo/document-site/issues/58) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
 3. 🗣 Commented on [#58](https://github.com/YummyOreo/document-site/issues/58) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
 4. 🗣 Commented on [#58](https://github.com/YummyOreo/document-site/issues/58) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-5. ❗️ Closed issue [#8](https://github.com/YummyOreo/document-site/issues/8) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+5. 🗣 Commented on [#58](https://github.com/YummyOreo/document-site/issues/58) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
 <!--END_SECTION:activity-->
 
 ### 📊 Weekly Wakatime Breakdown
