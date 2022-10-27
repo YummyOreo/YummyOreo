@@ -49,7 +49,3 @@ I am a programmer that loves to mess around and make random projects. I dont hos
 
 
 </details>
-
-### My Discord Profile
-
-![My Discord](https://discord-readme-badge.vercel.app/api?id=647959906170699776)
