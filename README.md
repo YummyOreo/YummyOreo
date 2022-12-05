@@ -7,7 +7,7 @@ I am a programmer that loves to mess around and make random projects. I dont hos
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/YummyOreo/document-site/issues/58) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+1. ❗️ Opened issue [#3805](https://github.com/monkeytypegame/monkeytype/issues/3805) in [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)
 2. 🗣 Commented on [#58](https://github.com/YummyOreo/document-site/issues/58) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
 3. 🗣 Commented on [#58](https://github.com/YummyOreo/document-site/issues/58) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
 4. 🗣 Commented on [#58](https://github.com/YummyOreo/document-site/issues/58) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
