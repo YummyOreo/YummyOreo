@@ -7,11 +7,11 @@ I am a programmer that loves to mess around and make random projects. I dont hos
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3805](https://github.com/monkeytypegame/monkeytype/issues/3805) in [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)
-2. 🗣 Commented on [#3805](https://github.com/monkeytypegame/monkeytype/issues/3805) in [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)
-3. ❗️ Opened issue [#3805](https://github.com/monkeytypegame/monkeytype/issues/3805) in [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)
-4. 🗣 Commented on [#58](https://github.com/YummyOreo/document-site/issues/58) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-5. 🗣 Commented on [#58](https://github.com/YummyOreo/document-site/issues/58) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+1. ❗️ Closed issue [#497](https://github.com/ajeetdsouza/zoxide/issues/497) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
+2. ❗️ Opened issue [#497](https://github.com/ajeetdsouza/zoxide/issues/497) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
+3. 🗣 Commented on [#3805](https://github.com/monkeytypegame/monkeytype/issues/3805) in [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)
+4. 🗣 Commented on [#3805](https://github.com/monkeytypegame/monkeytype/issues/3805) in [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)
+5. ❗️ Opened issue [#3805](https://github.com/monkeytypegame/monkeytype/issues/3805) in [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)
 <!--END_SECTION:activity-->
 
 ### 📊 Weekly Wakatime Breakdown
