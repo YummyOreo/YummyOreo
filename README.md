@@ -14,13 +14,6 @@ I am a programmer that loves to mess around and make random projects. I dont hos
 5. ❗️ Opened issue [#3805](https://github.com/monkeytypegame/monkeytype/issues/3805) in [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)
 <!--END_SECTION:activity-->
 
-### 📊 Weekly Wakatime Breakdown
-
-<img
-  src="https://github.com/YummyOreo/YummyOreo/blob/main/images/stat.svg"
-  alt="Wakatime stats"
-/>
-
 ### :computer: Tech That I Use
 
 <details>
