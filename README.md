@@ -8,10 +8,10 @@ I am a programmer that loves to mess around and make random projects. I dont hos
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/YummyOreo/Pindow/issues/1) in [YummyOreo/Pindow](https://github.com/YummyOreo/Pindow)
-2. 💪 Opened PR [#1](https://github.com/YummyOreo/Pindow/pull/1) in [YummyOreo/Pindow](https://github.com/YummyOreo/Pindow)
-3. ❗️ Closed issue [#497](https://github.com/ajeetdsouza/zoxide/issues/497) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-4. ❗️ Opened issue [#497](https://github.com/ajeetdsouza/zoxide/issues/497) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-5. 🗣 Commented on [#3805](https://github.com/monkeytypegame/monkeytype/issues/3805) in [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype)
+2. 🗣 Commented on [#1](https://github.com/YummyOreo/Pindow/issues/1) in [YummyOreo/Pindow](https://github.com/YummyOreo/Pindow)
+3. 💪 Opened PR [#1](https://github.com/YummyOreo/Pindow/pull/1) in [YummyOreo/Pindow](https://github.com/YummyOreo/Pindow)
+4. ❗️ Closed issue [#497](https://github.com/ajeetdsouza/zoxide/issues/497) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
+5. ❗️ Opened issue [#497](https://github.com/ajeetdsouza/zoxide/issues/497) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
 <!--END_SECTION:activity-->
 
 ### :computer: Tech That I Use
