@@ -7,11 +7,11 @@ I am a programmer that loves to mess around and make random projects. I dont hos
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/YummyOreo/Pindow/pull/1) in [YummyOreo/Pindow](https://github.com/YummyOreo/Pindow)
-2. 🗣 Commented on [#1](https://github.com/YummyOreo/Pindow/issues/1) in [YummyOreo/Pindow](https://github.com/YummyOreo/Pindow)
+1. 💪 Opened PR [#2](https://github.com/YummyOreo/Pindow/pull/2) in [YummyOreo/Pindow](https://github.com/YummyOreo/Pindow)
+2. 🎉 Merged PR [#1](https://github.com/YummyOreo/Pindow/pull/1) in [YummyOreo/Pindow](https://github.com/YummyOreo/Pindow)
 3. 🗣 Commented on [#1](https://github.com/YummyOreo/Pindow/issues/1) in [YummyOreo/Pindow](https://github.com/YummyOreo/Pindow)
-4. 💪 Opened PR [#1](https://github.com/YummyOreo/Pindow/pull/1) in [YummyOreo/Pindow](https://github.com/YummyOreo/Pindow)
-5. ❗️ Closed issue [#497](https://github.com/ajeetdsouza/zoxide/issues/497) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
+4. 🗣 Commented on [#1](https://github.com/YummyOreo/Pindow/issues/1) in [YummyOreo/Pindow](https://github.com/YummyOreo/Pindow)
+5. 💪 Opened PR [#1](https://github.com/YummyOreo/Pindow/pull/1) in [YummyOreo/Pindow](https://github.com/YummyOreo/Pindow)
 <!--END_SECTION:activity-->
 
 ### :computer: Tech That I Use
