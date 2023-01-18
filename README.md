@@ -7,11 +7,11 @@ I am a programmer that loves to mess around and make random projects. I dont hos
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#89](https://github.com/Owez/yark/pull/89) in [Owez/yark](https://github.com/Owez/yark)
-2. ❗️ Opened issue [#88](https://github.com/Owez/yark/issues/88) in [Owez/yark](https://github.com/Owez/yark)
-3. ❌ Closed PR [#58](https://github.com/YummyOreo/document-site/pull/58) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
-4. 🗣 Commented on [#72](https://github.com/Owez/yark/issues/72) in [Owez/yark](https://github.com/Owez/yark)
-5. ❗️ Closed issue [#78](https://github.com/Owez/yark/issues/78) in [Owez/yark](https://github.com/Owez/yark)
+1. ❗️ Opened issue [#10](https://github.com/samodostal/image.nvim/issues/10) in [samodostal/image.nvim](https://github.com/samodostal/image.nvim)
+2. 💪 Opened PR [#89](https://github.com/Owez/yark/pull/89) in [Owez/yark](https://github.com/Owez/yark)
+3. ❗️ Opened issue [#88](https://github.com/Owez/yark/issues/88) in [Owez/yark](https://github.com/Owez/yark)
+4. ❌ Closed PR [#58](https://github.com/YummyOreo/document-site/pull/58) in [YummyOreo/document-site](https://github.com/YummyOreo/document-site)
+5. 🗣 Commented on [#72](https://github.com/Owez/yark/issues/72) in [Owez/yark](https://github.com/Owez/yark)
 <!--END_SECTION:activity-->
 
 ### :computer: Skills
