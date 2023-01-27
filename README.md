@@ -15,6 +15,9 @@ impl YummyOreo {
     }
 
     pub fn latest_blogs() -> Vec<Blog> {
+        vec![
+
+        ]
     }
 }
 ```
