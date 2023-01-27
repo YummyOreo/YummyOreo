@@ -13,4 +13,8 @@ impl YummyOreo {
     pub fn current_project(&self) -> Project {
         Project::Secret
     }
+    
+    pub fn latest_blogs() -> Vec<Blog> {
+        // TODO: Implement this
+    }
 }
