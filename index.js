@@ -38,5 +38,5 @@ async function loadBlogPosts() {
   feed.items.slice(0, blogPostLimit).forEach((item) => {
     links += `        Blog {title: {item.title}, url: {item.link}},\n`;
   });
-  return `Vec![\n{links}\n]`
+  return `vec![\n{links}\n]`
 }
