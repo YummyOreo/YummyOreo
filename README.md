@@ -10,8 +10,8 @@ impl YummyOreo {
         }
     }
 
-    pub fn current_project(&self) -> Project {
-        Project::Secret
+    pub fn current_projects(&self) -> Vec<Project> {
+        vec![Project::RedPhosphorus, Project::Secret]
     }
 
     pub fn latest_blogs() -> Vec<Blog> {
