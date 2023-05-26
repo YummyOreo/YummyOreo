@@ -2,9 +2,9 @@
 impl YummyOreo {
     pub fn new() -> Self {
         YummyOreo {
-            interests: vec!["Coding", "Ultimate Frisbee", "Games", "Immunology", "Dnd", "Panting minis"],
-            code: vec![Lang::Rust, Lang::Python, Lang::Typescript],
-            tools: vec![Tool::Neovim, Tool::Atuin, Tool::Mongodb, Tool::Gimp, Tool::Figma],
+            interests: vec!["Coding", "Ultimate Frisbee", "Embedded", "Immunology", "Dnd", "Panting minis"],
+            code: vec![Lang::Rust, Lang::Python, Lang::Java, Lang::Typescript],
+            tools: vec![Tool::Neovim, Tool::Atuin, Tool::Nushell, Tool::Lazygit, Tool::],
 
             site: "oreo.is-a.dev",
         }
