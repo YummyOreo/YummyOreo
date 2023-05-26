@@ -4,7 +4,7 @@ impl YummyOreo {
         YummyOreo {
             interests: vec!["Coding", "Ultimate Frisbee", "Embedded", "Immunology", "Dnd", "Panting minis"],
             code: vec![Lang::Rust, Lang::Python, Lang::Java, Lang::Typescript],
-            tools: vec![Tool::Neovim, Tool::Atuin, Tool::Nushell, Tool::Lazygit, Tool::],
+            tools: vec![Tool::Neovim, Tool::Atuin, Tool::Nushell, Tool::Lazygit],
 
             site: "oreo.is-a.dev",
         }
