@@ -2,7 +2,7 @@
 impl YummyOreo {
     pub fn new() -> Self {
         YummyOreo {
-            interests: vec!["Coding", "Ultimate Frisbee", "Embedded", "Immunology", "Dnd", "Panting minis"],
+            interests: vec!["Coding", "Ultimate Frisbee", "Embedded", "Microbiology", "Dnd", "Panting minis"],
             code: vec![Lang::Rust, Lang::Python, Lang::Java, Lang::Typescript],
             tools: vec![Tool::Neovim, Tool::Atuin, Tool::Nushell, Tool::Lazygit],
 
@@ -11,7 +11,7 @@ impl YummyOreo {
     }
 
     pub fn current_projects(&self) -> Vec<Project> {
-        vec![Project::RedPhosphorus]
+        vec![Project::Onyx]
     }
 
     pub fn latest_blogs() -> Vec<Blog> {
